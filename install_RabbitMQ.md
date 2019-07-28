@@ -29,8 +29,8 @@
 ### 22. node-fetch for login
 ### 23. login with linkedin
 ### 24. login with twitter
-```diff 
-- ###  +25.-rabbitmq in red
+```html
+<h3 style="color:red">25.-rabbitmq in red </h3>
 ```
 ### 26. mongodb-
 ### 27. swagger-
