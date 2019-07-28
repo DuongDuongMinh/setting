@@ -1,15 +1,14 @@
-#install rabbit mq
-#reference https://www.tutlane.com/tutorial/rabbitmq/rabbitmq-installation
+# install rabbit mq
+# reference https://www.tutlane.com/tutorial/rabbitmq/rabbitmq-installation
 
 https://dev.to/jay97/docker-compose-an-express-and-mongo-app-aai
 
 
-#1.docker-compose and docker-manager
-
-2.jsonwebtoken
-3.express
-4.router
-5.koa
+# 1.docker-compose and docker-manager
+# 2.jsonwebtoken
+# 3.express
+# 4.router
+# 5.koa
 6.https-error
 7.cors
 8.eslint
