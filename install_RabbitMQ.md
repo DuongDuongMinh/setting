@@ -29,7 +29,7 @@
 ### 22. node-fetch for login
 ### 23. login with linkedin
 ### 24. login with twitter
-### ```diff  - 25.-rabbitmq in red ```
+### ```diff  +25.-rabbitmq in red ```
 ### 26. mongodb-
 ### 27. swagger-
 ### 28. ramda
