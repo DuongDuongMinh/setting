@@ -5,7 +5,7 @@
 ### https://dev.to/jay97/docker-compose-an-express-and-mongo-app-aai
 
 
-### <p style="color:red"> er in red</p>
+#### 1.docker-compose, docker-manager
 ### 2.jsonwebtoken
 ### 3.express
 ### 4.router
@@ -29,13 +29,11 @@
 ### 22. node-fetch for login
 ### 23. login with linkedin
 ### 24. login with twitter
-```html
-<h3 style="color:red">25.-rabbitmq in red </h3>
-```
-### 26. mongodb-
-### 27. swagger-
+#### 25.-rabbitmq 
+#### 26. mongodb-
+#### 27. swagger-
 ### 28. ramda
-### 29. nodejs restful api-
+#### 29. nodejs restful api-
 ### 30. winston
 ### 31. ajv
 ### 32. config
