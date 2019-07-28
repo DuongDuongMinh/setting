@@ -4,9 +4,6 @@
 
 ### https://dev.to/jay97/docker-compose-an-express-and-mongo-app-aai
 
-<head>
-  <link ref="stylesheet" href="/html/style.css">
-</head>
 
 ### <p style="color:red"> er in red</p>
 ### 2.jsonwebtoken
@@ -32,7 +29,7 @@
 ### 22. node-fetch for login
 ### 23. login with linkedin
 ### 24. login with twitter
-### 25.-rabbitmq-
+### ```diff  - 25.-rabbitmq- ```
 ### 26. mongodb-
 ### 27. swagger-
 ### 28. ramda
