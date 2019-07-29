@@ -5,6 +5,7 @@
 ### https://dev.to/jay97/docker-compose-an-express-and-mongo-app-aai
 
 ### https://medium.com/swlh/a-practical-guide-for-jwt-authentication-using-nodejs-and-express-d48369e7e6d4
+### https://dev.to/medaymentn/securing-your-node-js-api-with-json-web-token-5o5
 
 
 #### 1.docker-compose, docker-manager
