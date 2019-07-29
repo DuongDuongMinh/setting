@@ -10,6 +10,8 @@
 
 ### https://nordicapis.com/why-cant-i-just-send-jwts-without-oauth/?source=post_page
 
+### http://travistidwell.com/jsencrypt/demo/?source=post_page
+
 
 #### 1.docker-compose, docker-manager
 ### 2.jsonwebtoken
