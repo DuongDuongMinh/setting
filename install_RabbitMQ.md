@@ -59,4 +59,26 @@
 # 44. prettier.
 # 45. supertest
 
+Note: router, subapp(amout) or callback...
+example... 
+```node.js
+var express = require('express');
+var app = express();
+var subapp = express();
 
+//subapp.
+subapp.get('/product1', (req, res) => {
+   if(req.body.number > 2){
+      console.log('subapp');
+   }
+}
+app.use('/api', subapp);
+
+app.listen(3000, () => {
+  console.log('web server listens port 3000);
+});
+
+//===> subapp...will mount app...example /api/proudct1..
+//we will use.. all of the things subapp do that will same router(= express.Router());
+
+//router and subapp, have call back and functions same app./...the same app..
