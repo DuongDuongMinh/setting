@@ -31,15 +31,20 @@
 ### 13. https://medium.com/@therealchrisrutherford/nodejs-authentication-with-passport-and-jwt-in-express-3820e256054f
 
 
+## eslint 
+### 15. https://scotch.io/tutorials/code-formatting-with-prettier-in-visual-studio-code
+### 16. https://scotch.io/tutorials/linting-and-formatting-with-eslint-in-vs-code
 
-
-
-
+## architecture
+### 17. https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf
 
 
 ### 29. https://medium.com/@raygunio/hapi-vs-express-in-2018-node-js-framework-performance-comparison-e68293b10a36
 ### 30. https://medium.com/@stockholmux/redis-express-and-streaming-with-node-js-and-classic-literature-d00f13368db3
 
+
+# project 
+## https://medium.mybridge.co/45-amazing-node-js-open-source-for-the-past-year-v-2019-c774d750e925
 
 
 # header
