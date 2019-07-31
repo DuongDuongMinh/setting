@@ -14,6 +14,34 @@
 
 ### http://expressjs.com/en/resources/middleware/multer.html
 
+
+# today: 
+### 1. https://medium.com/hackernoon/async-testing-koa-with-jest-1b6e84521b71
+### 2. https://medium.com/@grantminer/why-you-should-use-koa-with-node-js-7c231a8174fa
+### 3. https://medium.com/javascriptjedi/middleware-in-nodejs-8623cb6cff7
+### 4. https://medium.com/@Abazhenov/using-async-await-in-express-with-node-8-b8af872c0016
+### 5. https://medium.com/@simov/oauth-like-a-boss-e336f6a7e149
+### 6. https://medium.com/@tarkus/how-to-open-database-connections-in-a-node-js-express-app-e14b2de5d1f8
+### 7. https://medium.com/@carlos.illobre/nodejs-express-how-to-organize-your-routes-in-very-big-applications-and-why-controllers-are-evil-e202eea497f4
+### 8. https://medium.com/netscape/mastering-koa-middleware-f0af6d327a69
+### 9. https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b?gi=9cf11ec46af1
+### 10. https://medium.com/@jonm90/express-to-koa-learn-koa-express-3132ad539b4f
+### 11. https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb
+### 12. https://medium.com/silibrain/using-passport-bcrypt-for-full-stack-app-user-authentication-fe30a013604e
+### 13. https://medium.com/@therealchrisrutherford/nodejs-authentication-with-passport-and-jwt-in-express-3820e256054f
+
+
+
+
+
+
+
+
+### 29. https://medium.com/@raygunio/hapi-vs-express-in-2018-node-js-framework-performance-comparison-e68293b10a36
+### 30. https://medium.com/@stockholmux/redis-express-and-streaming-with-node-js-and-classic-literature-d00f13368db3
+
+
+
 # header
 #### 1.docker-compose, docker-manager
 #### 2.jsonwebtoken
