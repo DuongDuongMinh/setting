@@ -9,3 +9,4 @@ https://kipalog.com/posts/Undo--mot-commit-trong-git-tree
 
 ## jwt auto key
 http://travistidwell.com/jsencrypt/demo/?source=post_page
+https://github.com/auth0/node-jsonwebtoken/issues/336
