@@ -29,6 +29,7 @@
 ### 11. https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb
 ### 12. https://medium.com/silibrain/using-passport-bcrypt-for-full-stack-app-user-authentication-fe30a013604e
 ### 13. https://medium.com/@therealchrisrutherford/nodejs-authentication-with-passport-and-jwt-in-express-3820e256054f
+### 14. https://medium.com/@technospace/an-introduction-to-oauth-2-0-4c71b5fb19ff
 
 
 ## eslint 
