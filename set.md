@@ -10,3 +10,6 @@ https://kipalog.com/posts/Undo--mot-commit-trong-git-tree
 ## jwt auto key
 http://travistidwell.com/jsencrypt/demo/?source=post_page
 https://github.com/auth0/node-jsonwebtoken/issues/336
+
+## facebook
+https://developers.facebook.com/apps/684348638658023/fb-login/settings/
