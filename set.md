@@ -14,6 +14,9 @@ https://github.com/auth0/node-jsonwebtoken/issues/336
 ## facebook
 https://developers.facebook.com/apps/684348638658023/fb-login/settings/
 
-## https://medium.com/containers-on-aws/scaling-a-realtime-chat-app-on-aws-using-socket-io-redis-and-aws-fargate-4ed63fb1b681
+## socket
+https://medium.com/containers-on-aws/scaling-a-realtime-chat-app-on-aws-using-socket-io-redis-and-aws-fargate-4ed63fb1b681
 
-## https://redislabs.com/blog/redis-on-windows-10/
+## redis
+## sudo service redis-server restart
+https://redislabs.com/blog/redis-on-windows-10/
