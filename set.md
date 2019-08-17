@@ -20,3 +20,4 @@ https://medium.com/containers-on-aws/scaling-a-realtime-chat-app-on-aws-using-so
 ## redis
 ## sudo service redis-server restart
 https://redislabs.com/blog/redis-on-windows-10/
+https://blog.ndk.name/change-mysql-server-authentication-plugin-for-root-user/
