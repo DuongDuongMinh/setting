@@ -26,3 +26,8 @@ https://blog.ndk.name/change-mysql-server-authentication-plugin-for-root-user/
 https://o7planning.org/vi/11959/ket-noi-co-so-du-lieu-mysql-su-dung-nodejs
 
 https://github.com/nodejs/help/issues/134
+
+
+## sql
+https://sequelize.org/master/manual/hooks.html#declaring-hooks
+xampp.org
