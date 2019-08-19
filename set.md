@@ -32,3 +32,8 @@ https://github.com/nodejs/help/issues/134
 https://sequelize.org/master/manual/hooks.html#declaring-hooks
 xampp.org
 https://bitbucket.org/comspacesphotosystem/comspace-community/src/master/
+
+http://www.mysqltutorial.org/mysql-order-by/
+
+
+
