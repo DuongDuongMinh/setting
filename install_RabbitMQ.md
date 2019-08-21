@@ -120,3 +120,27 @@ app.listen(3000, () => {
 //we will use.. all of the things subapp do that will same router(= express.Router());
 
 //router and subapp, have call back and functions same app./...the same app..
+```
+## RESTful API.
+## MYSQL
+## firebase.
+## socket
+## unitest nhat gui.
+## sensui / the-craftsman-book
+## rabbitmq
+## radis
+## mongodb, kapka
+## kapka with uber
+## https://medium.com/@WSO2/guidelines-for-designing-microservices-71ee1997776c
+## microservice
+## cloud store blackblaze
+## (ElasticSearch, Cassandra)
+##  Kong API Gateway
+## bitbucket.
+## confluence
+## zeplin
+## jira software
+## kong
+## nginx
+## docker
+
