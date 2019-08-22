@@ -201,3 +201,9 @@ Phần quan trọng nhất là phải đọc documentation. sau đó là suy ngh
 ### hãy nhớ là giống với lau nhà vậy 90% thời gian là chuẩn bị và lau dọn bàn ghế bụi bẩn. duy chỉ có 10% là thời gian dùng để lau sàn nhà.
 ### nếu trong lập trình mình dành 10% thời gian đó làm đầu tiên. Vậy như là đi lau nhà trước trong khi việc khác làm sau thì cả căn nhà vẫn bẩn bình thường vì lau. lau  mọi thứ xuống. sàn nhà sẽ bị dơ. ta đã lãng phí 10% thời gian lau sàn. Thêm việc lại mất 10% thời gian lau lại. Mà nhiều lúc ta lại quan tâm xem sàn của ta có dơ không. vậy phải mất thêm 30_ 50% thời gian cho việc đó. --> tới việc làm lau những thứ khác k sạch sẽ. vậy thời gian ta lãng phí quá nhiều rồi...vậy mất 90% thời gian chỉ để làm 1 việc trong khi chỉ cần 10% là hoàn thành nếu ta biết chuẩn bị tài liệu trước, đưa ra phương hướng, nghĩ ra tất cả khả năng xảy ra, hình thành tư duy sắp xếp hệ thống, thứ tự trước sau. Thì 10% lần sau ta làm rất đơn giản.
 Những bước chuẩn bị và xác định phương hướng sẽ chiếm 90% thời gian đủ để ta suy nghĩ và đưa ra phương án tốt nhất. Đó là con đường mà mình nên đi. Học code là để suy nghĩ và cách tổ chức hệ thống khi mình chưa biết. Còn nếu trong dự án. thì phải có con mắt nhà kinh tế. phài tư duy quan sát. 10% thời gian còn lại cuối cùng là trình bày ra sản phẩm mà mình đã có kế hoạch đã có sự chuẩn bị trước đó. ok
+
+
+
+
+### advance
+### https://medium.com/@technospace/has-recommended
