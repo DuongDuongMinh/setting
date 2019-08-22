@@ -39,5 +39,6 @@ http://www.mysqltutorial.org/mysql-order-by/
 code  = 12345;
 code -> save to database ...sau đó sẽ có 1 function là settimeout...(cài khoảng thời gian đặt lại code='') có nghĩa là code đó sẽ mất hiệu lực trong khoảng thời gian là bao lâu. ok.
 
+## when you use dev or product environment.
 
 
