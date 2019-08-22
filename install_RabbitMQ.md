@@ -184,6 +184,17 @@ app.listen(3000, () => {
 ### https://medium.com/@JamWils/keeping-the-realtime-in-firebases-realtime-database-ed60bddbee90
 
 
+# database
+### heap meaning.
+### vertical scale.
+### horizontal scale.
+### https://en.wikipedia.org/wiki/Multiversion_concurrency_control
+
+# type database and storage engine
+### http://www.mysqltutorial.org/wp-content/uploads/2018/03/MySQL-Storage-Engines-Feature-Summary.pdf
+### http://www.mysqltutorial.org/wp-content/uploads/2018/03/MySQL-Data-Types.pdf
+
+
 
 
 Phần quan trọng nhất là phải đọc documentation. sau đó là suy nghĩ cách giải quyết. 10% là code. nhưng lại chiếm 90% thời gian.(lãng phí đó).
