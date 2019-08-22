@@ -155,6 +155,37 @@ app.listen(3000, () => {
 ### data machine.
 ### cdn
 ### dns
+### https://codeburst.io/what-is-a-web-server-97362996d229
+### https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+### https://medium.com/@utkarsh_verma/configure-nginx-as-a-web-server-and-reverse-proxy-for-nodejs-application-on-aws-ubuntu-16-04-server-872922e21d38
+
+### https://blog.sourcerer.io/apache-is-still-the-best-general-purpose-web-server-dacedbd86921
+# web server.. nginx, redis mongo db
+### https://medium.com/quick-code/top-tutorials-to-learn-nginx-for-web-server-dc8638c48fae
+### https://medium.com/@fermads/node-js-process-load-balancing-comparing-cluster-iptables-and-nginx-6746aaf38272
+### https://medium.com/better-programming/implementing-rabbitmq-with-node-js-93e15a44a9cc
+### https://medium.com/@freekmurze/load-balancing-with-nginx-95d902b4849f
+
+### https://medium.com/@auth0/load-balancing-node-js-applications-with-nginx-and-docker-1739e0cec2ef
+### https://medium.com/signal-sciences-labs/securing-microservices-and-apis-with-nginx-and-signal-sciences-17904d3a830a
+### https://medium.com/better-programming/implementing-rabbitmq-with-node-js-93e15a44a9cc
+
+### https://itnext.io/request-id-tracing-in-node-js-applications-c517c7dab62d
+
+### https://medium.com/hackernoon/scaling-node-js-socket-server-with-nginx-and-redis-d19bf5c07fa8
+
+# firebase
+### https://blog.usejournal.com/build-a-serverless-full-stack-app-using-firebase-cloud-functions-81afe34a64fc
+### https://medium.com/hackernoon/nodejs-setup-firebase-in-4-step-tutorial-example-easy-beginner-service-account-key-json-node-server-d61e803d6cc8
+### https://codeburst.io/how-to-build-a-command-line-app-in-node-js-using-typescript-google-cloud-functions-and-firebase-4c13b1699a27
+
+### https://auth0.com/blog/how-to-authenticate-firebase-and-angular-with-auth0-part-1/?utm_source=medium&utm_medium=sc&utm_campaign=firebase_angular
+
+### https://medium.com/@JamWils/keeping-the-realtime-in-firebases-realtime-database-ed60bddbee90
+
+
+
+
 Phần quan trọng nhất là phải đọc documentation. sau đó là suy nghĩ cách giải quyết. 10% là code. nhưng lại chiếm 90% thời gian.(lãng phí đó).
 ### hãy nhớ là giống với lau nhà vậy 90% thời gian là chuẩn bị và lau dọn bàn ghế bụi bẩn. duy chỉ có 10% là thời gian dùng để lau sàn nhà.
 ### nếu trong lập trình mình dành 10% thời gian đó làm đầu tiên. Vậy như là đi lau nhà trước trong khi việc khác làm sau thì cả căn nhà vẫn bẩn bình thường vì lau. lau  mọi thứ xuống. sàn nhà sẽ bị dơ. ta đã lãng phí 10% thời gian lau sàn. Thêm việc lại mất 10% thời gian lau lại. Mà nhiều lúc ta lại quan tâm xem sàn của ta có dơ không. vậy phải mất thêm 30_ 50% thời gian cho việc đó. --> tới việc làm lau những thứ khác k sạch sẽ. vậy thời gian ta lãng phí quá nhiều rồi...vậy mất 90% thời gian chỉ để làm 1 việc trong khi chỉ cần 10% là hoàn thành nếu ta biết chuẩn bị tài liệu trước, đưa ra phương hướng, nghĩ ra tất cả khả năng xảy ra, hình thành tư duy sắp xếp hệ thống, thứ tự trước sau. Thì 10% lần sau ta làm rất đơn giản.
