@@ -41,4 +41,6 @@ code -> save to database ...sau đó sẽ có 1 function là settimeout...(cài 
 
 ## when you use dev or product environment.
 
+https://backendapi.turing.com/docs/
+
 
