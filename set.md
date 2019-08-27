@@ -48,4 +48,6 @@ code -> save to database ...sau đó sẽ có 1 function là settimeout...(cài 
 https://backendapi.turing.com/docs/
 https://www.sohamkamani.com/about
 
+https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
+
 
