@@ -207,3 +207,6 @@ Những bước chuẩn bị và xác định phương hướng sẽ chiếm 90%
 
 ### advance
 ### https://medium.com/@technospace/has-recommended
+
+mysql
+https://codeforgeek.com/nodejs-mysql-tutorial/
