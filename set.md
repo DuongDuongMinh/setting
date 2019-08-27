@@ -43,6 +43,9 @@ code -> save to database ...sau đó sẽ có 1 function là settimeout...(cài 
 
 ## when you use dev or product environment.
 
+### resful and asnyc and one thread
+
 https://backendapi.turing.com/docs/
+https://www.sohamkamani.com/about
 
 
