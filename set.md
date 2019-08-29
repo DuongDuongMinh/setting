@@ -56,3 +56,25 @@ https://medium.com/better-programming/is-javascript-synchronous-or-asynchronous-
 https://github.com/sensui/the-craftsman-book?fbclid=IwAR2u3xDUOZbkO8o6jbtqISr-oICRM5udtzMNk2RTGqilartI5mrw8byfLGE
 
 
+### rabbitms
+
+I had the same Problem..
+
+I installed RabbitMQ and Enabled Web Interface also but still couldn't sign in with any user i newly created, this is because you need to be administrator to access this.
+
+Do not create any config file and mess with it..
+
+This is what i did then,
+
+Add a new/fresh user, say user test and password test:
+
+rabbitmqctl add_user test test
+Give administrative access to the new user:
+
+rabbitmqctl set_user_tags test administrator
+Set permission to newly created user:
+
+rabbitmqctl set_permissions -p / test ".*" ".*" ".*"
+That's it, enjoy :)
+
+
