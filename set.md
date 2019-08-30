@@ -79,3 +79,5 @@ rabbitmqctl set_permissions -p / test ".*" ".*" ".*"
 That's it, enjoy :)
 https://www.squaremobius.net/amqp.node/channel_api.html
 
+### uber
+https://eng.uber.com/ureplicator/
