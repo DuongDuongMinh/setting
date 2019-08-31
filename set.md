@@ -81,3 +81,30 @@ https://www.squaremobius.net/amqp.node/channel_api.html
 
 ### uber
 https://eng.uber.com/ureplicator/
+### hoat dong dieu khien tu xa.
+kafka, mongodb(???), rabbitmq, mysql
+
+ mỗi 1 server sẽ nói chuyện với nhau theo 2 cách. Cách 1 là qua sync và cách hai là qua async, cách 3 là tự nói chuyện 1 mình cho mình tự hiểu.
+ ví dụ như chiếc máy tính, nói chuyện theo sync là qua dây nối hai thằng máy tính với nhau(hai thằng ở gần).
+vậy 2 thằng ở xa thì phải nói chuyện qua internet và có 1 kênh trung gian để hai thằng nói chuyện giống zalo vậy.
+cách 3 là tự mình xử lý hay sử dụng ứng dụng trên máy tính của mình..tự chơi 1 mình.
+
+
+ví dụ mình có thể nói chuyện với đứa hàng xóm vì nó gần nhà....vậy thì (asyn) điều kiện là nhà gần nhau, nói trực tiếp.
+mình nói chuyện với một thằng ở mỹ thì mình phải nói qua phương tiện trung gian khác, ví dụ thư điện tử, zalo hay cái gì đó.
+hoặc mình tự nói mình nghe...
+
+
+- rabbit mq thì tất cả con rabbitmq đều có thể nói chuyện với nhau thông qua 1 cổng chung chẳng hạn amqp:hieu@localhost...
+ví dụ hiếu cũng dùng rabbit mq. và kết nối qua cổng này, hội cũng vậy và mình cũng vậy thì bây giờ 3 đứa nói chuyện với nhau ở đây.
+- tiếp giờ hội dùng webser, hiếu dùng 1 cái database, mình dùng 1 webserver đi.. vậy cả 3 người muốn nói chuyện với nhau thì qua rabbitmq.
+nhưng mình và hội lại cùng dùng webserver...cùng kết nối là http://comspaces/* gì đó.
+vậy mình và hội có thể nói chuyện tại đây, hội là keenhh /nghia mình có kênh là /minhchau...
+hội có thể gọi tên mình /minhchau, minhc có thể gọi tên hôi là /nghia. 
+
+
+* chú ý nếu như cả mình, nghĩa và hiếu cùng dùng rabbitmq để tạo exchange, queue chẳng hạn thì cái rabbitmq này k khác gì 1 cái webserver nếu ta lên hẳn cái trang web hiểu thị tạo thư exchane, hoặc queue...
+nhưng là 1 api server khi ta sử dụng dòng lệnh. lúc đó k có giao diện gì cả... 
+rabbitmq thì cũng giống với mình dùng 1 trang web..
+mình tới địa chỉ trang web nào.. url...
+tiếp theo là 1 là khách hai là thành viên. (thành viên thì có password và username) mỗi cái tài khoản sẽ có thông tin bảo mật của mình ha.. vậy thì mình dùng nó rồi... thông tin mình cho nên đó. mình muốn cho ai vào thì cho người ta mật khẩu, hoăc có thể vào 1 nhóm chát với nhau đó.. trong đó có chứa dữ liệu mà cả 3 người cùng thao tác được.
