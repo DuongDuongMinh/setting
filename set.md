@@ -115,3 +115,6 @@ https://www.objectrocket.com/blog/mongodb/intro-to-massive-scaling-with-mongodb/
 
 ### log
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying?fbclid=IwAR0ks_9xwyrc7KgOS8GpaUIcqVtkgWIxIu9oNDywQmo1OI4qF2mMTf1F_Io
+
+### kafka
+https://engineering.linkedin.com/blog/2016/04/kafka-ecosystem-at-linkedin
