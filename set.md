@@ -108,3 +108,6 @@ nhưng là 1 api server khi ta sử dụng dòng lệnh. lúc đó k có giao di
 rabbitmq thì cũng giống với mình dùng 1 trang web..
 mình tới địa chỉ trang web nào.. url...
 tiếp theo là 1 là khách hai là thành viên. (thành viên thì có password và username) mỗi cái tài khoản sẽ có thông tin bảo mật của mình ha.. vậy thì mình dùng nó rồi... thông tin mình cho nên đó. mình muốn cho ai vào thì cho người ta mật khẩu, hoăc có thể vào 1 nhóm chát với nhau đó.. trong đó có chứa dữ liệu mà cả 3 người cùng thao tác được.
+
+### mongodb
+https://www.objectrocket.com/blog/mongodb/intro-to-massive-scaling-with-mongodb/
