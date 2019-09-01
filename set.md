@@ -111,3 +111,7 @@ tiếp theo là 1 là khách hai là thành viên. (thành viên thì có passwo
 
 ### mongodb
 https://www.objectrocket.com/blog/mongodb/intro-to-massive-scaling-with-mongodb/
+
+
+### log
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying?fbclid=IwAR0ks_9xwyrc7KgOS8GpaUIcqVtkgWIxIu9oNDywQmo1OI4qF2mMTf1F_Io
