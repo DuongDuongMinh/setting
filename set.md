@@ -125,4 +125,5 @@ https://conferences.oreilly.com/artificial-intelligence/ai-ny-2018/public/schedu
 ### docker and hadoop, microservice, loadbalance, realtime
 ### system design
 https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe
-
+### facebook
+https://medium.com/@shagun/scaling-memcache-at-facebook-1ba77d71c082
