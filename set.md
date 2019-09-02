@@ -81,6 +81,7 @@ https://www.squaremobius.net/amqp.node/channel_api.html
 
 ### uber
 https://eng.uber.com/ureplicator/
+https://www.slideshare.net/zhenxiao/machine-learning-and-big-data-uber-a-tale-of-two-systems
 ### hoat dong dieu khien tu xa.
 kafka, mongodb(???), rabbitmq, mysql
 
