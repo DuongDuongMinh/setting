@@ -122,5 +122,5 @@ https://engineering.linkedin.com/blog/2016/04/kafka-ecosystem-at-linkedin
 ### AI
 https://conferences.oreilly.com/artificial-intelligence/ai-ny-2018/public/schedule/detail/65105
 
-### docker and hadoop.
+### docker and hadoop, microservice, loadbalance, realtime
 
