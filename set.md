@@ -123,4 +123,6 @@ https://engineering.linkedin.com/blog/2016/04/kafka-ecosystem-at-linkedin
 https://conferences.oreilly.com/artificial-intelligence/ai-ny-2018/public/schedule/detail/65105
 
 ### docker and hadoop, microservice, loadbalance, realtime
+### system design
+https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe
 
