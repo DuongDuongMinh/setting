@@ -119,3 +119,5 @@ https://engineering.linkedin.com/distributed-systems/log-what-every-software-eng
 
 ### kafka
 https://engineering.linkedin.com/blog/2016/04/kafka-ecosystem-at-linkedin
+### AI
+https://conferences.oreilly.com/artificial-intelligence/ai-ny-2018/public/schedule/detail/65105
