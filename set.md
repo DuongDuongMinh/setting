@@ -132,3 +132,5 @@ https://medium.com/@shagun/scaling-memcache-at-facebook-1ba77d71c082
 
 https://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
 https://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
+
+https://dev.to/guimg/how-to-serve-nodejs-applications-with-nginx-on-a-raspberry-jld
