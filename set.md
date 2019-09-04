@@ -127,3 +127,7 @@ https://conferences.oreilly.com/artificial-intelligence/ai-ny-2018/public/schedu
 https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe
 ### facebook
 https://medium.com/@shagun/scaling-memcache-at-facebook-1ba77d71c082
+
+### nginx
+
+https://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
