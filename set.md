@@ -155,3 +155,7 @@ https://techmaster.vn/posts/34635/gioi-thieu-ve-nginx-cho-lap-trinh-vien?fbclid=
 https://serverguy.com/comparison/apache-vs-nginx/?fbclid=IwAR2Iht6lAEphhpk6KGOCtpnMpf5VeHipAu8BknbgQtIY4r59BO96ovUudhQ
 
 https://www.freecodecamp.org/news/
+
+### directory ubuntu
+https://askubuntu.com/questions/759880/where-is-the-ubuntu-file-system-root-directory-in-windows-subsystem-for-linux-an
+
