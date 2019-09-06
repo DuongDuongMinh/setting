@@ -135,3 +135,21 @@ https://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips
 
 https://dev.to/guimg/how-to-serve-nodejs-applications-with-nginx-on-a-raspberry-jld
 https://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
+
+### nginx 
+https://blog.cloudflare.com/
+
+https://themeisle.com/blog/prevent-image-hotlinking-in-wordpress/
+
+https://en.wikipedia.org/wiki/MD5
+
+https://en.wikipedia.org/wiki/Cryptographic_hash_function
+https://en.wikipedia.org/wiki/RPM_Package_Manager
+https://en.wikipedia.org/wiki/Yum_(software)
+https://unit.nginx.org/installation/
+
+https://www.siteground.com/themeisle?afcode=b1d0f6820e046c19802d21f3b46eb61d&campaign=ti-filezilla
+
+https://techmaster.vn/posts/34635/gioi-thieu-ve-nginx-cho-lap-trinh-vien?fbclid=IwAR3UVQodidUtnr5JXIrv_-aSBew9ugymXQsrMbJFMrOJVxG7H-De4Y2vhyA
+
+https://serverguy.com/comparison/apache-vs-nginx/?fbclid=IwAR2Iht6lAEphhpk6KGOCtpnMpf5VeHipAu8BknbgQtIY4r59BO96ovUudhQ
