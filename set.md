@@ -160,4 +160,6 @@ https://www.freecodecamp.org/news/
 https://askubuntu.com/questions/759880/where-is-the-ubuntu-file-system-root-directory-in-windows-subsystem-for-linux-an
 
 https://demo.nginx.com/swagger-ui/?_ga=2.227511386.614264120.1567763976-2023068060.1567594320#/General_Info/getNginx
+### .env
+https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
 
