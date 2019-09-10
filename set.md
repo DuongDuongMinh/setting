@@ -29,7 +29,7 @@ https://o7planning.org/vi/11959/ket-noi-co-so-du-lieu-mysql-su-dung-nodejs
 https://github.com/nodejs/help/issues/134
 
 
-## sql
+## sql with timeout
 https://sequelize.org/master/manual/hooks.html#declaring-hooks
 xampp.org
 https://bitbucket.org/comspacesphotosystem/comspace-community/src/master/
@@ -37,6 +37,7 @@ https://bitbucket.org/comspacesphotosystem/comspace-community/src/master/
 http://www.mysqltutorial.org/mysql-order-by/
 
 mysqladmin -u root password [newpassword]
+https://github.com/mysqljs/mysql#connection-options
 
 ## Giả sử khi ta tạo nên 1 verify_code đi phải cho nó khoảng thời gian kết thúc. ví dụ như sau.
 code  = 12345;
@@ -162,4 +163,19 @@ https://askubuntu.com/questions/759880/where-is-the-ubuntu-file-system-root-dire
 https://demo.nginx.com/swagger-ui/?_ga=2.227511386.614264120.1567763976-2023068060.1567594320#/General_Info/getNginx
 ### .env
 https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
+
+### date-time
+I don't think toJSON is implemented in IE, so I don't think we should use that. It looks like the native Date object uses ISO8607, so maybe we could just use that.
+
+(new Date()).toJSON(); // "2012-09-24T17:16:42.483Z"
+I'll look into the details of Date.prototype.toJSON, but I think one of the following should work.
+
+// just use the default ISO8607 that moment uses
+moment.fn.toJSON = function () {
+    return moment.utc(this).format();
+}
+// use the ISO8607 that Chrome uses
+moment.fn.toJSON = function () {
+    return moment.utc(this).format('YYYY-MM-DD[T]HH:mm:ss.SSS[Z]');
+}
 
