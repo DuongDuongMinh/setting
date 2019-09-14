@@ -182,3 +182,22 @@ moment.fn.toJSON = function () {
 ```
 https://momentjs.com/docs/
 
+### request
+https://github.com/request/request
+https://www.npmjs.com/package/request
+
+### blog it
+https://itviec.com/blog/9-tech-blogger-the-gioi-ban-can-biet/
+
+### kong
+https://konghq.com/faqs/
+https://medium.com/@far3ns/kong-the-microservice-api-gateway-526c4ca0cfa6
+https://puppet.com/docs/pipelines-for-apps/enterprise/application-nodejs-mocha.html
+
+
+### search and another tutorial best
+https://codeforgeek.com/mongodb-elasticsearch-synchronization/
+
+### deploy
+https://puppet.com/docs/pipelines-for-apps/enterprise/manifest.html
+
