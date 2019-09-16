@@ -204,3 +204,6 @@ https://puppet.com/docs/pipelines-for-apps/enterprise/manifest.html
 ### await
 https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea
 
+### restful
+patch https://medium.com/backticks-tildes/restful-api-design-put-vs-patch-4a061aa3ed0b
+
