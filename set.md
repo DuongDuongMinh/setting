@@ -201,3 +201,6 @@ https://codeforgeek.com/mongodb-elasticsearch-synchronization/
 ### deploy
 https://puppet.com/docs/pipelines-for-apps/enterprise/manifest.html
 
+### await
+https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea
+
