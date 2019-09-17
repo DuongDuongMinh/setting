@@ -210,4 +210,8 @@ patch https://medium.com/backticks-tildes/restful-api-design-put-vs-patch-4a061a
 
 ### search full text
 https://www.tunglt.com/2018/11/bo-dau-tieng-viet-javascript-es6/
+https://medium.com/@nickgerleman/the-bkd-tree-da19cf9493fb
+https://en.wikipedia.org/wiki/K-D-B-tree
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize
+very good: elastic.co
 
