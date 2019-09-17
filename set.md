@@ -37,6 +37,7 @@ https://bitbucket.org/comspacesphotosystem/comspace-community/src/master/
 http://www.mysqltutorial.org/mysql-order-by/
 
 mysqladmin -u root password [newpassword]
+mysql -u root -p
 https://github.com/mysqljs/mysql#connection-options
 
 ## Giả sử khi ta tạo nên 1 verify_code đi phải cho nó khoảng thời gian kết thúc. ví dụ như sau.
@@ -206,4 +207,7 @@ https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a0
 
 ### restful
 patch https://medium.com/backticks-tildes/restful-api-design-put-vs-patch-4a061aa3ed0b
+
+### search full text
+https://www.tunglt.com/2018/11/bo-dau-tieng-viet-javascript-es6/
 
