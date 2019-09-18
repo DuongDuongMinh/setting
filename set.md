@@ -215,3 +215,23 @@ https://en.wikipedia.org/wiki/K-D-B-tree
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize
 very good: elastic.co
 
+### firebase
+var firebaseConfig = {
+  apiKey: "api-key",
+  authDomain: "project-id.firebaseapp.com",
+  databaseURL: "https://project-id.firebaseio.com",
+  projectId: "project-id",
+  storageBucket: "project-id.appspot.com",
+  messagingSenderId: "sender-id",
+  appID: "app-id",
+};
+is public all the world so you need security for this to filebase project.
+if not security all peopler can add their app to your filebase project.
+
+security:::::
+https://firebase.google.com/docs/firestore/security/get-started
+https://firebase.google.com/docs/database/security/quickstart
+https://firebase.google.com/docs/database/security/quickstart
+https://firebase.google.com/docs/storage/security/start
+
+MQTT
