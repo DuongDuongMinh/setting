@@ -238,3 +238,5 @@ MQTT
 
 - you need to setup secure for database because all people can read and write your data, even people not use your app.
 
+https://www.google.com/search?sxsrf=ACYBGNQq_eXbcPvVLB-IIx657DzDmyINWA%3A1568857499721&ei=m92CXf3EK9mpoATEhpqYCg&q=set+up+firebase+rules&oq=set+up+firebase+rules&gs_l=psy-ab.3...2201.7836..8344...2.1..0.140.1996.16j6......0....1..gws-wiz.....10..0i71j35i362i39j35i39j0j0i131j0i67j0i203j0i10i203j0i22i30j33i22i29i30.Xi-WrUccwkw&ved=0ahUKEwi9_uTP4dvkAhXZFIgKHUSDBqMQ4dUDCAs&uact=5#kpvalbx=_pd2CXdOSM9CmoATYlI2ACA23
+
