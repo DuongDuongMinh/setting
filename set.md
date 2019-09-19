@@ -235,3 +235,6 @@ https://firebase.google.com/docs/database/security/quickstart
 https://firebase.google.com/docs/storage/security/start
 
 MQTT
+
+- you need to setup secure for database because all people can read and write your data, even people not use your app.
+
