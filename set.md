@@ -240,3 +240,19 @@ MQTT
 
 https://www.google.com/search?sxsrf=ACYBGNQq_eXbcPvVLB-IIx657DzDmyINWA%3A1568857499721&ei=m92CXf3EK9mpoATEhpqYCg&q=set+up+firebase+rules&oq=set+up+firebase+rules&gs_l=psy-ab.3...2201.7836..8344...2.1..0.140.1996.16j6......0....1..gws-wiz.....10..0i71j35i362i39j35i39j0j0i131j0i67j0i203j0i10i203j0i22i30j33i22i29i30.Xi-WrUccwkw&ved=0ahUKEwi9_uTP4dvkAhXZFIgKHUSDBqMQ4dUDCAs&uact=5#kpvalbx=_pd2CXdOSM9CmoATYlI2ACA23
 
+### server
+giả sử có 10 conserver thì lúc nào cũng bật rồi.
+1 cón sẽ có cổng 127.09.08
+con thư 2 có công 127.09.09
+....
+mỗi con thì như la 1 chiếc máy tính. mỗi máy tính thì có thể chay nhiều ứng dụng web
+chỉ cần khác port là được
+giả sử 1 con server có phục vụ 10000 người chẳng hạn, thì sẽ có port là 2000, 2001, 20002 ....vân vân.
+khi mà 1 người có 1 lời gọi thì 
+- bước 1 nginx sẽ phân cho 1 server(máy chủ host) rồi mỗi máy chủ sẽ tự động bật lên 1 port. khi khác hàng logout hoặc ngắt kết nối thì port nó sẽ tắt kết nối.
+mỗi khách hàng khác lại vào thì nó lại bật lên.....
+nếu server này mà đầy rồi, thì ngixn phân sang server khách chưa đầy. Nếu tất cả full thì phải ngồi đợi thôi.
+giống phòng game vậy đó.
+server là 1 phòng. mỗi máy tính là port. 1 người chơi vào thì bật máy. k chơi nữa thì tắt máy. người mà đang sắng màn, thì vẫn chơi. ok.
+
+
