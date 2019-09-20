@@ -255,4 +255,5 @@ nếu server này mà đầy rồi, thì ngixn phân sang server khách chưa đ
 giống phòng game vậy đó.
 server là 1 phòng. mỗi máy tính là port. 1 người chơi vào thì bật máy. k chơi nữa thì tắt máy. người mà đang sắng màn, thì vẫn chơi. ok.
 
-
+### axios:
+rest in firebase
