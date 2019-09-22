@@ -257,3 +257,6 @@ server là 1 phòng. mỗi máy tính là port. 1 người chơi vào thì bật
 
 ### axios:
 rest in firebase
+
+https://howtofirebase.com/collection-queries-with-firebase-b95a0193745d
+https://softauthor.com/firebase-querying-sorting-filtering-database-with-nodejs-client/
