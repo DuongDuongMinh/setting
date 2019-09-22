@@ -260,3 +260,5 @@ rest in firebase
 
 https://howtofirebase.com/collection-queries-with-firebase-b95a0193745d
 https://softauthor.com/firebase-querying-sorting-filtering-database-with-nodejs-client/
+https://arduino.esp8266.vn/network/mqtt.html
+https://code.google.com/archive/p/mqtt4erl/wikis/QualityOfServiceUseCases.wiki
