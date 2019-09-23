@@ -266,3 +266,12 @@ https://code.google.com/archive/p/mqtt4erl/wikis/QualityOfServiceUseCases.wiki
 ### socket..
 https://cdnjs.com/libraries/socket.io
 server side
+ 1. http
+ 2. cmqp
+ 3. tcp
+ 4. long polling
+ 5. short polling
+ 6. websocket.
+ 
+ 
+cmqp
