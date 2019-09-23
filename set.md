@@ -266,13 +266,21 @@ https://code.google.com/archive/p/mqtt4erl/wikis/QualityOfServiceUseCases.wiki
 ### socket..
 https://cdnjs.com/libraries/socket.io
 server side
- 1. http
- 2. cmqp
- 3. tcp
- 4. long polling
- 5. short polling
- 6. websocket.
+ #### 1. http
+ #### 2. cmqp
+ ##### 3. tcp
+ #### 4. long polling
+ #### 5. short polling
+ #### 6. websocket.
+ #### google analyn
+ ### user_angel_chome
+ ### console for check sesource
  
- 
-cmqp
+### amqp
+### protocal ????
+### http
+#### tcp
+#### resever server
+###  server side
+### 
 https://www.jeffalytics.com/ip-tracking-google-analytics/
