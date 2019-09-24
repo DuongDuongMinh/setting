@@ -234,6 +234,9 @@ https://firebase.google.com/docs/database/security/quickstart
 https://firebase.google.com/docs/database/security/quickstart
 https://firebase.google.com/docs/storage/security/start
 
+### online offline firebase
+#### https://blog.campvanilla.com/firebase-firestore-guide-how-to-user-presence-online-offline-basics-66dc27f67802
+
 MQTT
 
 - you need to setup secure for database because all people can read and write your data, even people not use your app.
