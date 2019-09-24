@@ -286,3 +286,9 @@ server side
 ### https://www.jeffalytics.com/ip-tracking-google-analytics/
 #### https://repl.it/@hieulm
 #### https://trello.com/hiuleminh/activity
+
+### socket and thread
+#### https://stackoverflow.com/questions/11235557/why-is-threading-used-for-sockets
+#### https://www.geeksforgeeks.org/socket-programming-multi-threading-python/
+#### https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/
+#### https://www.oracle.com/technetwork/java/socket-140484.html
