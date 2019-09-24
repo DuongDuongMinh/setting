@@ -282,6 +282,7 @@ server side
 #### tcp
 #### resever server
 ###  server side
-### 
-https://www.jeffalytics.com/ip-tracking-google-analytics/
-https://repl.it/@hieulm
+### hieu
+### https://www.jeffalytics.com/ip-tracking-google-analytics/
+#### https://repl.it/@hieulm
+#### https://trello.com/hiuleminh/activity
