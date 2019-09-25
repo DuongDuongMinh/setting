@@ -295,3 +295,8 @@ server side
 #### https://www.geeksforgeeks.org/socket-programming-multi-threading-python/
 #### https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/
 #### https://www.oracle.com/technetwork/java/socket-140484.html
+
+### Computer
+#### https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/
+#### https://www.howtogeek.com/138771/htg-explains-how-latency-can-make-even-fast-internet-connections-feel-slow/
+#### https://www.howtogeek.com/117371/how-to-find-your-computers-private-public-ip-addresses/
