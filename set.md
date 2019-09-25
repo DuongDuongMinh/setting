@@ -300,3 +300,5 @@ server side
 #### https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/
 #### https://www.howtogeek.com/138771/htg-explains-how-latency-can-make-even-fast-internet-connections-feel-slow/
 #### https://www.howtogeek.com/117371/how-to-find-your-computers-private-public-ip-addresses/
+#### http://ip4.me/
+#### https://www.geeksforgeeks.org/differences-between-tcp-and-udp/
