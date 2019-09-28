@@ -1,0 +1,19 @@
+Mình muốn có thể chạy dự án.
+Thì phần file cấu hình rất quan trọng. nó sẽ giúp mình thay đổi nơi muốn lưu trữ database.
+hay đơn giản là mình muốn thay đổi điều gì đó rất rễ.
+
+--- tiếp theo.
+giả sử mình muốn dự án của mình chạy trong môi trường dev.
+hay chạy trong môi trường project.
+
+
+thì ở trong dự án của mình có thể phân như sau.
+
+/project
+ .env
+ /develop/.env
+ /product/.env
+ /release/.env
+
+vậy muốn chạy dự án theo cái nào thì mình chỉ cần chọn file mình muốn trong
+(vì nó là tên cố định đều là .env vậy nên ta sẽ phải cho vào các thư mục khác nhau là được rồi).

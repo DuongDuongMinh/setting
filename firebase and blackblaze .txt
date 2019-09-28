@@ -1,0 +1,92 @@
+Bước 1 : tạo 1 số tài khoản trên blackblazer. (ta sẽ cần 1 database cho quản lý tài khoản admin)
+như là 1 luồng điều khiển trung tâm vậy đó.
+tài khoản đó là quyền admin đi.
+tài khoản adm1, adm2, adm3, adm4....
+mỗi tài khoản thì sẽ cho 1000 khách đi.
+
+
+b2 ta lập 1 cái data là custom_configs
+cấu hình của blackblazer tới mỗi khách hàng đảm bảo cứ 1000 khách thì được quản lý bởi 1 admin
+trên blackblazer.
+
+b2. bên khách hàng sẽ upload thì thông qua cấu hình đó. và nhận cũng thông qua file cấu hình.
+b3 lưu trữ file như vậy sẽ được miễn phí rồi.
+
+_____________________________________
+firebase bước 1 tạo adm1, admi2, dmin3....
+vì mỗi tài khoản sẽ cho bao nhiêu khách đi.
+giả sử là 1000 người thì chia từng vào tài khoản thì tốc
+độ truy cập chung vào đó sẽ nhanh.
+
+-- đồng thời vì lượng lưu trữ miễn phí, nên do vậy mình sẽ tận dụng được.
+--- ngoài ra filebase giống với ram lại giống với cả ổ cứng.
+--- ví dụ nó gần đầy ta sẽ kéo về lưu trữ trên data của mình. sau đó xóa dữ liệu đi
+vậy khách hàng có thể tiếp tục nhắn tin, ta có thể lấy được data.
+---
+
+
+nếu ta sử dụng tài blackblaze upload luôn bằng cách thông firebase thì sao??? lại k phải gọi qua server của mình còn gì.
+Vậy thì giảm đi được chi phí nữa à.
+viết hàm Cloud Function firebase thì có được không?????
+
+
+--- b2 sẽ gửi cho khách hàng file cấu hình để kết nối tới file base.
+khách hàng sẽ kết nối thành công. 
+ta sẽ viết 1 function. để lưu tin nhắn của 2 người nói chuyện với nhau sư dụng
+CLOUD FUNCTION.....
+và tiếp đó thì sử dụng CFM (cloud firebase message cho 2 bên nhắn tin qua lại miễn phí).
+
+--- đồng thời phải có hệ thống kiểm tra và thời gian nào thì xóa và thời gian nào thì nhận
+dữ liệu trên firebase kéo về data của mình.
+
+
+------------------------------------------------ 
+đấy cũng là cách mà công ty lớn họ đầu tư cho khởi nghiệp.
+vì họ biết khởi nghiệp không có tiền.
+Vì chính họ cũng từng là người khởi nghiệp.
+Nhưng muốn dùng được miễn phí và giảm chi phí hay không thì họ
+cũng muốn xem tố chất của người khởi nghiệp.
+Nếu mà thông minh thì họ sẽ biết khai thác và hiểu ý của các ông lớn.
+---Sau này mình có tiền thì mình cũng sẽ làm cách tương tự.
+--- đó là lý do tại sao các công ty lớn lại đi làm từ thiện cho người nghèo.
+Nhiều nhà khởi nghiệp lại tự hỏi tại sao họ lại không đầu tư cho mình.
+Thực chất là có. Chỉ cần tìm hiểu kỹ sẽ thấy các ông lớn sẽ đầu tư cho khởi nghiệp rất nhiều.
+---chỉ là mình muốn dùng cái gì, thì phải tìm hiểu kỹ xem họ đầu tư cho khởi nghiệp ở khoản nào.
+và như thế nào.
+-- Sau này công ty đó thành công chắc chắn sẽ trả ơn lại và giúp đỡ bằng chính cách họ đã làm.
+đó là phương châm và cách sống của những người giàu đã làm.
+Cho đi trong thầm lặng, mà thực ra có quảng cáo đó chứ.
+Mình có thật sự chú ý lắng nghe và thự sự tìm hiểu thì mới nhận ra chân lý của cuộc sống.
+
+-----
+configuration for project have (đọc thêm về cái này).
+firebase options object to hold all data configuration firebase application.
+
+___ ---- giả sử giờ muốn lưu trữ file ảnh hay tài liệu miễn phí ta cứ lập ra hàng nghìn cái nich thôi
+như vậy ta cho firebase liên kết tới tài khoản đó là có thể lưu trữ được rồi.
+
+------------------------
+như vậy ta cũng có thể sử dụng hệ thồn free. (tức là dựa trên nhiều cái nguồn)
+chạy có săn và miễn phí cho mỗi người dùng.
+
+
+---------------------
+Mình nghĩ mà xem. Nếu họ đăng nhập bằng facebook. Thì mình có thể lấy tài khoản đó.
+tạo 1 cái tài khoản trên blackblaze hay trên google. hay đại loại như vậy không? (thông thường nếu mình làm vậy)
+thì nếu có hacker lấy được tài khoản của họ.
+có thể lên các trang nguồn xóa dữ liệu. nên rất là nguy hiểm.
+vậy mình hãy tự động tạo email trên google.
+vậy mỗi tài khoản giả sử họ đăng ký mình thì mình sẽ tự động tạo 1 tài khoản đang ký google gần giống vây.
+sau đó đăng ký trang trên các nguồn và có thể sử dụng tài nguyên miễn phí rồi...haha...
+
+
+__ để khỏi ngắt quãng quá trình đăng nhập của ngươi dùng mình sử dụng 1 rabbitmq để nhận dữ liêu.
+id của người đó là bao nhiêu, và sử dụng 1 hàm lập mail.
+ rồi đăng ký dịch vụ cho cái mail đó.
+có thể sử dụng firebase hoặc blazeblaze chẳng hạn.
+Sau khi mà mỗi tài khoản đó lưu trữ được tầm bao nhiêu đó, thì mình kéo về. 
+(như vậy sẽ làm tăng tốc độ và độ tối ưu hóa nhanh nhất)........
+nhưng cách này cần phải bàn với hội đã.
+----------------------
+
+
