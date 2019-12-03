@@ -1,5 +1,6 @@
 # install rabbit mq
 # reference 
+https://stackoverflow.com/questions/8548983/how-to-install-rabbitmq-management-plugin-rabbitmq-plugins
 ### https://www.tutlane.com/tutorial/rabbitmq/rabbitmq-installation
 
 ### https://dev.to/jay97/docker-compose-an-express-and-mongo-app-aai
